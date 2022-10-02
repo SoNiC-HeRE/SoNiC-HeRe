@@ -23,7 +23,7 @@
 <a href="https://linkedin.com/in/sriyansh-shivam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sriyansh-shivam" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19674795" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19674795" height="30" width="40" /></a>
 <a href="https://dribbble.com/SoNiC_HeRe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="sonic-here" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/SoNiC_HeRe" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sonic-here" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/sonichere" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sonic-here" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/SoNiC_HeRe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sonic-here" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/SoNiC_HeRe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sonic-here" height="30" width="40" /></a>
 </p>
