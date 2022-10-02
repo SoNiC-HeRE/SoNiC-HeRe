@@ -1,4 +1,4 @@
-!logo(https://github.com/SoNiC-HeRE/SoNiC-HeRe/blob/master/banner.jpg)
+![logo](https://github.com/SoNiC-HeRE/SoNiC-HeRe/blob/master/banner.jpg)
 <h1 align="center">Hi 👋, I'm Sriyansh Shivam aka SoNiC</h1>
 <h3 align="center">Aspiring Software Developer and Self-Taught Graphic Designer</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
