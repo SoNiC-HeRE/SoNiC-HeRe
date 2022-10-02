@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sriyansh Shivam aka SoNiC</h1>
 <h3 align="center">Aspiring Software Developer and Self-Taught Graphic Designer</h3>
-<img align="right" alt="coding" width="400" src="[https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966](https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif](https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif)">
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966">
 
 <p align="left"> <a href="https://twitter.com/shivamsriyansh" target="blank"><img src="https://img.shields.io/twitter/follow/shivamsriyansh?logo=twitter&style=for-the-badge" alt="shivamsriyansh" /></a> </p>
 
