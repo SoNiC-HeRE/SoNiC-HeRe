@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Open-Source Projects**
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/sonic_here)
+- 👨‍💻 All of my projects are available at https://linktr.ee/sonic_here
 
 - 💬 Ask me about **C/C++ , UI UX , Graphic Design**
 
