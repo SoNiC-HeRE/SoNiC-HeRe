@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sriyansh Shivam aka SoNiC</h1>
 <h3 align="center">Aspiring Software Developer and Self-Taught Graphic Designer</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.datadriveninvestor.com%2Fthe-most-hilarious-code-comments-ever-bae3cb1030b5&psig=AOvVaw00mLmBXVYocNtlQfJjdhyn&ust=1664821165588000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCICd1aeUwvoCFQAAAAAdAAAAABAD">
+<img align="right" alt="coding" width="400" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.datadriveninvestor.com%2Fthe-most-hilarious-code-comments-ever-bae3cb1030b5&psig=AOvVaw00mLmBXVYocNtlQfJjdhyn&ust=1664821165588000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCICd1aeUwvoCFQAAAAAdAAAAABAD](https://static1.s123-cdn-static-a.com/uploads/5555641/normal_614650aa3c2a1.gif)">
 
 <p align="left"> <a href="https://twitter.com/shivamsriyansh" target="blank"><img src="https://img.shields.io/twitter/follow/shivamsriyansh?logo=twitter&style=for-the-badge" alt="shivamsriyansh" /></a> </p>
 
