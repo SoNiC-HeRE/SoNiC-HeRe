@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sriyanshshivam1@gmail.com**
 
-- ⚡ Fun fact **I am Sarcastic**
+- ⚡ <a href="https://my-website-sonic.netlify.app/" target="_blank">My Portfolio-Website</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
