@@ -1,7 +1,7 @@
 ![logo](https://github.com/SoNiC-HeRE/SoNiC-HeRe/blob/master/newest%20banner.jpg)
 <h1 align="center">Hi 👋, I'm Sriyansh Shivam aka SoNiC</h1>
 <h3 align="center">Aspiring Software Developer and Self-Taught Graphic Designer</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif">
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 <p align="left"> <a href="https://twitter.com/shivamsriyansh" target="blank"><img src="https://img.shields.io/twitter/follow/shivamsriyansh?logo=twitter&style=for-the-badge" alt="shivamsriyansh" /></a> </p>
 
