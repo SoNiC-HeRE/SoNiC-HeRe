@@ -38,3 +38,6 @@
  
  <h1 align="center"> Language Stats </h1>
  <p align="center">&nbsp;<img align="center" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=SoNiC-HeRE&theme=radical" alt="Language used" />
+ 
+ 
+ ![Snake animation](https://github.com/utkarsh3128/utkarsh3128/blob/output/github-contribution-grid-snake.svg)
