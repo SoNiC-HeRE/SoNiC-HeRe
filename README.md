@@ -40,4 +40,3 @@
  <p align="center">&nbsp;<img align="center" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=SoNiC-HeRE&theme=radical" alt="Language used" />
  
  
- ![Snake animation](https://github.com/SoNiC-HeRE/SoNiC-HeRe/blob/output/github-contribution-grid-snake.svg)
