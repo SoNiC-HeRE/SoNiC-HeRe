@@ -34,7 +34,7 @@
 <h1 align="center"> GitHub Stats </h1>
 <p align="center">&nbsp;<img align="center" src= "https://github-readme-stats.vercel.app/api?username=SoNiC-HeRE&show_icons=truen&icon_color=bb2acf&count_private=true&theme=algolia&bg_color=0500206A" alt="Github Stats" /><br>
   
- <p align="center">&nbsp;<img align="center" src= "https://github-readme-streak-stats.herokuapp.com/?user=SoNiC-HeRE&layout=compact&theme=blueberry_duo&background=0500206A&dates=3795DD" alt="Github Streak" /> </p>
+ <p align="center">[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SoNiC-HeRE&theme=highcontrast&hide_border=true)](https://git.io/streak-stats) </p>
  
  <h1 align="center"> Language Stats </h1>
  <p align="center">&nbsp;<img align="center" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=SoNiC-HeRE&theme=radical" alt="Language used" />
