@@ -36,11 +36,11 @@
  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=SoNiC-HeRE&theme=highcontrast&hide_border=true"></p>
  
  <h1 align="center"> Language Stats </h1>
-<img align="left" src= "https://github.com/SoNiC-HeRE/SoNiC-HeRe/raw/master/profile-summary-card-output/2077/1-repos-per-language.svg" alt="Language used" />
+<img src= "https://github.com/SoNiC-HeRE/SoNiC-HeRe/raw/master/profile-summary-card-output/2077/1-repos-per-language.svg" alt="Language used" />
   
-<img align="center" src= "https://github.com/SoNiC-HeRE/SoNiC-HeRe/raw/master/profile-summary-card-output/2077/2-most-commit-language.svg" alt="Language used" />
+<img src= "https://github.com/SoNiC-HeRE/SoNiC-HeRe/raw/master/profile-summary-card-output/2077/2-most-commit-language.svg" alt="Language used" />
   
-<img align="right" src= "https://github.com/SoNiC-HeRE/SoNiC-HeRe/raw/master/profile-summary-card-output/2077/3-stats.svg" alt="Language used" />
+<img src= "https://github.com/SoNiC-HeRE/SoNiC-HeRe/raw/master/profile-summary-card-output/2077/3-stats.svg" alt="Language used" />
  
  
  ![snake gif](https://github.com/SoNiC-HeRE/SoNiC-HeRe/blob/output/github-contribution-grid-snake.gif)
