@@ -36,7 +36,7 @@
  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=SoNiC-HeRE&theme=highcontrast&hide_border=true"></p>
  
  <h1 align="center"> Language Stats </h1>
- <p align="center">&nbsp;<img align="center" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=SoNiC-HeRE&theme=dark" alt="Language used" />
+ <p align="center">&nbsp;<img align="center" src= "https://github.com/SoNiC-HeRE/SoNiC-HeRe/raw/master/profile-summary-card-output/2077/1-repos-per-language.svg" alt="Language used" />
  
  
  ![snake gif](https://github.com/SoNiC-HeRE/SoNiC-HeRe/blob/output/github-contribution-grid-snake.gif)
