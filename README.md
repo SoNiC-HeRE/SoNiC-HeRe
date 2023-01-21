@@ -44,5 +44,5 @@
 
 <img align="right" src= "https://github.com/SoNiC-HeRE/SoNiC-HeRe/raw/master/profile-summary-card-output/2077/4-productive-time.svg" alt="Language used" />
  
- 
+ <h1 align="center"></h1>
 ![snake gif](https://github.com/SoNiC-HeRE/SoNiC-HeRe/blob/output/github-contribution-grid-snake.gif)
