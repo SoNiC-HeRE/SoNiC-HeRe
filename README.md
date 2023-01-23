@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/shivamsriyansh" target="blank"><img src="https://img.shields.io/twitter/follow/shivamsriyansh?logo=twitter&style=for-the-badge" alt="shivamsriyansh" /></a> </p>
 
+![](https://komarev.com/ghpvc/?username=SoNiC-HeRE&label=PROFILE+VIEWS)
+
 - 🌱 I’m currently learning **ReactJs , MERN Stack , Blockchain**
 
 - 👯 I’m looking to collaborate on **Open-Source Projects**
