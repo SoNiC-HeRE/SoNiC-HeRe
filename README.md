@@ -4,7 +4,6 @@
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/freeze/fit/c/80/56/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 <p align="left"> <a href="https://twitter.com/shivamsriyansh" target="blank"><img src="https://img.shields.io/twitter/follow/shivamsriyansh?logo=twitter&style=for-the-badge" alt="shivamsriyansh" /></a> </p>
-![](https://komarev.com/ghpvc/?username=SoNiC-HeRE)
 
 - 🌱 I’m currently learning **ReactJs , MERN Stack , Blockchain**
 
