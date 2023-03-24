@@ -1,5 +1,4 @@
 ![logo](https://github.com/SoNiC-HeRE/SoNiC-HeRe/blob/master/newest%20banner.jpg)
-![](https://komarev.com/ghpvc/?username=SoNiC-HeRE&color=green)
 <h1 align="center">Hi 👋, I'm Sriyansh Shivam aka SoNiC</h1>
 <h3 align="center">Aspiring Software Developer and Self-Taught Graphic Designer</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/freeze/fit/c/80/56/0*7Q3yvSIv_t0ioJ-Z.gif">
