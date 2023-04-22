@@ -32,5 +32,3 @@
 
 <h1 align="center"> GitHub Stats </h1>
  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=SoNiC-HeRE&theme=highcontrast&hide_border=true"></p>
-
-![snake gif](https://github.com/SoNiC-HeRE/SoNiC-HeRe/blob/output/github-contribution-grid-snake.gif)
