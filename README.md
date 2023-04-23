@@ -30,11 +30,15 @@ const sonic = {
     code: ["Javascript", "Python", "C", "Rust"],
     askMeAbout: ["web dev", "blockchain", "ui/ux", "designing"],
     technologies: {
+        frontEnd: {
+            ["React.Js", "Next.Js", "Tailwind CSS", "BootStrap5", "MaterialUI"]
+        },
         backEnd: {
-            js: ["Node.Js", "Netlify", "Express.Js"],
+            ["Node.Js","Express.Js"],
         },
         devOps: ["Docker🐳"],
         databases: ["mongoDB", "MySql"],
+        deployment: ["heroku", "vercel" , "netlify"]
         misc: ["Firebase", "Socket.IO", "GTK", "php"]
     },
     currentFocus: "DSA and Web Development",
