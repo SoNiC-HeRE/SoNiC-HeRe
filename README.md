@@ -8,6 +8,23 @@
 ![GitHub followers](https://img.shields.io/github/followers/SoNiC-HeRE?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://ss-portfolio.vercel.app/)](https://ss-portfolio.vercel.app/)
 
+```javascript
+const sonic = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Python", "C", "Rust"],
+    askMeAbout: ["web dev", "blockchain", "ui/ux", "designing"],
+    technologies: {
+        backEnd: {
+            js: ["Node.Js", "Netlify", "Express.Js"],
+        },
+        devOps: ["Docker🐳"],
+        databases: ["mongoDB", "MySql"],
+        misc: ["Firebase", "Socket.IO", "GTK", "php"]
+    },
+    currentFocus: "DSA and Web Development",
+    funFact: "I'm a Gamer 🕹️"
+};
+```
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%20min-blue)
