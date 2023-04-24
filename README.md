@@ -51,7 +51,7 @@ const sonic = {
 <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-18%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-132-blue)
 
@@ -120,6 +120,6 @@ Makefile                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/04/2023 00:38:36 UTC
+ Last Updated on 24/04/2023 17:24:14 UTC
 <!--END_SECTION:waka-->
 <hr />
