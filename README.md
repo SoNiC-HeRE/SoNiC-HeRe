@@ -51,7 +51,7 @@ const sonic = {
 <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-18%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-158-blue)
 
@@ -59,11 +59,11 @@ const sonic = {
 
 > 📦 23.7 kB Used in GitHub's Storage 
  > 
-> 🏆 183 Contributions in the Year 2023
+> 🏆 184 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 49 Public Repositories 
+> 📜 50 Public Repositories 
  > 
 > 🔑 3 Private Repositories 
  > 
@@ -126,6 +126,6 @@ Makefile                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/04/2023 00:37:59 UTC
+ Last Updated on 27/04/2023 16:27:50 UTC
 <!--END_SECTION:waka-->
 <hr />
