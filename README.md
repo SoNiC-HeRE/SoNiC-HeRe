@@ -53,7 +53,7 @@ const sonic = {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2058%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
 
 **🐱 My GitHub Data** 
 
@@ -94,18 +94,16 @@ Sunday                   61 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               39 mins             ███████████████░░░░░░░░░░   59.27 % 
-HTML                     27 mins             ██████████░░░░░░░░░░░░░░░   40.73 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 7 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-DAA-Project              1 hr 4 mins         ████████████████████████░   96.82 % 
-Resources                2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 7 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -121,6 +119,6 @@ C                        3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 15/05/2023 00:38:53 UTC
+ Last Updated on 16/05/2023 00:38:09 UTC
 <!--END_SECTION:waka-->
 <hr />
