@@ -21,7 +21,7 @@
 
 <hr/>
 
-<h2>Hit this in your console 👇</h2>
+## Hit the command in your terminal 👇
 ```bash
 npx sonic-here
 ```
