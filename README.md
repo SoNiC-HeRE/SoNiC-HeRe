@@ -21,6 +21,12 @@
 
 <hr/>
 
+<h2>Hit this in your console 👇</h2>
+```bash
+npx sonic-here
+```
+
+<hr/>
 <h2 align="center">More about Me <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> </h3>
 <br>
 
