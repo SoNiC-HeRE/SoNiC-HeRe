@@ -44,7 +44,7 @@ const sonic = {
         },
         devOps: ["Docker🐳"],
         databases: ["mongoDB", "MySql"],
-        deployment: ["heroku", "vercel" , "netlify"]
+        deployment: ["heroku", "vercel" , "netlify"],
         misc: ["Firebase", "Socket.IO", "GTK", "php"]
     },
     currentFocus: "DSA and Web Development",
