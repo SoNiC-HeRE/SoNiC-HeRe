@@ -33,19 +33,19 @@ npx sonic-here
 ```javascript
 const sonic = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "C", "Rust"],
-    askMeAbout: ["web dev", "blockchain", "ui/ux", "designing"],
+    code: ["Javascript", "Python", "Kotlin", "Java"],
+    askMeAbout: ["web dev", "blockchain", "ui/ux", "software development"],
     technologies: {
         frontEnd: {
-            ["React.Js", "Next.Js", "Tailwind CSS", "BootStrap5", "MaterialUI"]
+            ["React.Js", "Next.Js", "Tailwind CSS", "BootStrap5", "MaterialUI","Vite"]
         },
         backEnd: {
-            ["Node.Js","Express.Js"],
+            ["Node.Js","Express.Js","FastAPI","Spring Boot"],
         },
-        devOps: ["Docker🐳"],
-        databases: ["mongoDB", "MySql"],
+        devOps: ["Docker🐳","Jenkins","Kubernetes"],
+        databases: ["mongoDB", "MySql","PostgreSQL"],
         deployment: ["heroku", "vercel" , "netlify"],
-        misc: ["Firebase", "Socket.IO", "GTK", "php"]
+        misc: ["Firebase", "Socket.IO", "GTK", "php","GSAP","FRAMER MOTION","FIGMA"]
     },
     currentFocus: "DSA and Web Development",
     funFact: "I'm a Gamer 🕹️"
