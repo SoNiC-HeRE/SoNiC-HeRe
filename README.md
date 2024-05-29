@@ -59,13 +59,11 @@ const sonic = {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-147%20hrs%205%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-23-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 402.5 kB Used in GitHub's Storage 
- > 
-> 🏆 117 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -125,6 +123,6 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/05/2024 00:39:12 UTC
+ Last Updated on 29/05/2024 00:42:33 UTC
 <!--END_SECTION:waka-->
 <hr />
