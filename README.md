@@ -100,17 +100,16 @@ Sunday                   287 commits         █████████░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JSON                     1 min               █████████████████░░░░░░░░   68.70 % 
-TypeScript               0 secs              ████████░░░░░░░░░░░░░░░░░   31.30 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-portfolio-redefined      2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -126,6 +125,6 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 22/09/2024 00:51:37 UTC
+ Last Updated on 23/09/2024 00:48:09 UTC
 <!--END_SECTION:waka-->
 <hr />
