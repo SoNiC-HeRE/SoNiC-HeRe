@@ -65,8 +65,6 @@ const sonic = {
 
 > 📦 403.1 kB Used in GitHub's Storage 
  > 
-> 🏆 145 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 114 Public Repositories 
@@ -125,6 +123,6 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 12/11/2024 00:45:48 UTC
+ Last Updated on 13/11/2024 00:46:30 UTC
 <!--END_SECTION:waka-->
 <hr />
