@@ -65,6 +65,8 @@ const sonic = {
 
 > 📦 469.7 kB Used in GitHub's Storage 
  > 
+> 🏆 143 Contributions in the Year 2025
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 121 Public Repositories 
@@ -123,6 +125,6 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 31/05/2025 00:58:32 UTC
+ Last Updated on 01/06/2025 01:11:05 UTC
 <!--END_SECTION:waka-->
 <hr />
