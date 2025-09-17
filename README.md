@@ -57,8 +57,6 @@ const sonic = {
 <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-161%20hrs%2048%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
 
 **🐱 My GitHub Data** 
@@ -71,45 +69,6 @@ const sonic = {
  > 
 > 🔑 12 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                37 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
-🌆 Daytime                311 commits         ██████░░░░░░░░░░░░░░░░░░░   22.20 % 
-🌃 Evening                639 commits         ███████████░░░░░░░░░░░░░░   45.61 % 
-🌙 Night                  414 commits         ███████░░░░░░░░░░░░░░░░░░   29.55 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   107 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
-Tuesday                  135 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
-Wednesday                224 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
-Thursday                 223 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
-Friday                   200 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
-Saturday                 186 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
-Sunday                   326 commits         ██████░░░░░░░░░░░░░░░░░░░   23.27 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -123,6 +82,6 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/09/2025 00:56:00 UTC
+ Last Updated on 17/09/2025 00:55:53 UTC
 <!--END_SECTION:waka-->
 <hr />
