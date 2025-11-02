@@ -57,15 +57,13 @@ const sonic = {
 <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-161%20hrs%2048%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 469.9 kB Used in GitHub's Storage 
+> 📦 470.0 kB Used in GitHub's Storage 
  > 
-> 🏆 156 Contributions in the Year 2025
+> 🏆 165 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -73,45 +71,6 @@ const sonic = {
  > 
 > 🔑 13 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                37 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
-🌆 Daytime                311 commits         ██████░░░░░░░░░░░░░░░░░░░   22.14 % 
-🌃 Evening                643 commits         ███████████░░░░░░░░░░░░░░   45.77 % 
-🌙 Night                  414 commits         ███████░░░░░░░░░░░░░░░░░░   29.47 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   107 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
-Tuesday                  135 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-Wednesday                224 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
-Thursday                 223 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
-Friday                   204 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
-Saturday                 186 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
-Sunday                   326 commits         ██████░░░░░░░░░░░░░░░░░░░   23.20 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -125,6 +84,6 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/11/2025 01:03:22 UTC
+ Last Updated on 02/11/2025 01:03:57 UTC
 <!--END_SECTION:waka-->
 <hr />
