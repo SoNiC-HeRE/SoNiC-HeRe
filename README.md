@@ -57,8 +57,6 @@ const sonic = {
 <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-161%20hrs%2048%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
@@ -125,6 +123,6 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 15/11/2025 01:00:16 UTC
+ Last Updated on 16/11/2025 01:06:19 UTC
 <!--END_SECTION:waka-->
 <hr />
