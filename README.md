@@ -57,13 +57,15 @@ const sonic = {
 <br />
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-163%20hrs%2016%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 470.1 kB Used in GitHub's Storage 
+> 📦 470.3 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2026
+> 🏆 4 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -71,6 +73,45 @@ const sonic = {
  > 
 > 🔑 13 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                30 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+🌆 Daytime                310 commits         ██████░░░░░░░░░░░░░░░░░░░   25.39 % 
+🌃 Evening                553 commits         ███████████░░░░░░░░░░░░░░   45.29 % 
+🌙 Night                  328 commits         ███████░░░░░░░░░░░░░░░░░░   26.86 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   93 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
+Tuesday                  119 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
+Wednesday                137 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
+Thursday                 218 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.85 % 
+Friday                   171 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
+Saturday                 202 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
+Sunday                   281 commits         ██████░░░░░░░░░░░░░░░░░░░   23.01 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -84,6 +125,6 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/01/2026 01:13:13 UTC
+ Last Updated on 06/01/2026 01:06:43 UTC
 <!--END_SECTION:waka-->
 <hr />
